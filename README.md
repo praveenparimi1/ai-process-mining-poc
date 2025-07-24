@@ -7,17 +7,16 @@ At **Nationwide Mutual Insurance**, I led an AI/ML-driven Process Mining Proof-o
 The analysis involved mining workflows from legacy CRM systems, identifying inefficiencies, and creating data-backed automation strategies using predictive models. This foundational work **enabled the broader project to move forward** and also supported IBM in leveraging the findings to **pursue patent filings** related to BPM–MDM orchestration and metadata handling.
 
 ## 🧩 Key Responsibilities
-- Conducted end-to-end process mining using **Blueworks Live** across multiple customer support workflows
-- Exported As-Is process maps and identified high-latency areas and redundancy points
-- Created To-Be models based on optimization scenarios, supported by KPI thresholds
-- Designed a **lightweight predictive logic model** using historical cycle time data to flag potential delays
-- Delivered **executive dashboards** visualizing risk areas, opportunity size, and time-saving projections
+- Conducted process mining using Blueworks Live across multi-channel CRM workflows
+- Designed As-Is and To-Be flows backed by performance KPIs
+- Created lightweight predictive models based on historical delay patterns
+- Built a business case for automation based on cycle-time and effort variance
 
 ## 🚀 Achievements
-- ⏱️ Reduced cycle-time by 15% in pilot business units (claims + support)
-- 🔄 Identified 7+ automation opportunities with clear ROI estimates
-- 📊 Increased visibility of end-to-end process metrics for stakeholders
-- 🤖 Positioned POC to scale into a broader automation and CRM transformation roadmap
+- ⏱️ Reduced cycle-time by 15% in pilot areas
+- 📊 Increased process visibility and stakeholder alignment
+- 🤖 Identified automation opportunities and bottlenecks
+- 🧠 Supported IBM with input for patent-related documentation
 
 ## 🛠️ Tools Used
 `Blueworks Live`, `BPMN`, `MS Visio`, `Excel`, `Python (analytics prototype)`, `Tableau`, `Rational`, `POC Slides`
