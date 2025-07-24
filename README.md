@@ -1,7 +1,10 @@
 # 🤖 AI/ML Process Mining – Proof of Concept (Nationwide Mutual Insurance)
 
 ## 📌 Project Overview
-At **Nationwide Mutual Insurance**, I led an AI/ML-driven Process Mining Proof-of-Concept (POC) as part of a broader CRM and BPM modernization initiative. The goal was to analyze legacy system workflows, detect inefficiencies, and build data-backed cases for automation and redesign using predictive insights.
+
+At **Nationwide Mutual Insurance**, I led an AI/ML-driven Process Mining Proof-of-Concept (POC) as part of a broader CRM and BPM modernization initiative. This POC marked the **first successful integration between IBM BPM and IBM MDM platforms**, laying the groundwork for architectural validation and data consistency across business units.
+
+The analysis involved mining workflows from legacy CRM systems, identifying inefficiencies, and creating data-backed automation strategies using predictive models. This foundational work **enabled the broader project to move forward** and also supported IBM in leveraging the findings to **pursue patent filings** related to BPM–MDM orchestration and metadata handling.
 
 ## 🧩 Key Responsibilities
 - Conducted end-to-end process mining using **Blueworks Live** across multiple customer support workflows
